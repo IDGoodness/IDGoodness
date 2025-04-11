@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goodness Adewuyi</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
+<h3 align="center"> A Purpose-Driven Software Engineer, Full-Stack Dev, AI visionary, and future zaddy in the tech industry 😎.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idgoodness" alt="idgoodness" /></a> </p>
 
